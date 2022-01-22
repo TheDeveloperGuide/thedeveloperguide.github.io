@@ -1,1 +1,0 @@
-# thedeveloperguide.github.io

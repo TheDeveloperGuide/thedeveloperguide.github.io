@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://thedeveloperguide.github.io/jdk-and-ide/</loc>
+         <lastmod>2022-01-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://thedeveloperguide.github.io/prerequisites/</loc>
          <lastmod>2022-01-23</lastmod>
          <changefreq>daily</changefreq>
